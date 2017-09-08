@@ -13,8 +13,8 @@ To decrypt everything in the repo, use `git secret reveal`
 Adding a new secret
 -------------------
 
-If the secret is linked to a new site, create a new file named `<site>.txt`, and add it to the
-repo: `git secret add <filename>`
+If the secret is linked to a new site, create a new file named `<site>.txt` or `<site>.yaml`, 
+and add it to the repo: `git secret add <filename>`
 
 Edit the file for the site related to the secret in question, adding a description and a value.
 
