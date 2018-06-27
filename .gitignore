@@ -204,3 +204,4 @@ ENV/
 # Some files in the .gitsecret/keys directory that probably shouldn't be included
 S.gpg-agent*
 private-keys*
+.gitsecret/keys/random_seed
