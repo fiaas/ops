@@ -200,6 +200,7 @@ ENV/
 # Unencrypted files needs to be ignored, so let's start with ignoring all *.txt and *.yaml files
 *.txt
 *.yaml
+fiaas-config.asc
 
 # Some files in the .gitsecret/keys directory that probably shouldn't be included
 S.gpg-agent*
