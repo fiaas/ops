@@ -39,7 +39,7 @@ grants access for a new user:
 Removing a user
 ---------------
 
-- `git secret killperson <email>`
+- `git secret removeperson <email>`
 - Re-encrypt all files: `git secret hide`
 
 Keep in mind that after this, the person in question will no longer be able to decrypt the
